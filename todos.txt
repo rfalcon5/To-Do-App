@@ -1,5 +1,4 @@
 clean
-plate
-Make Soup
+newest todo
 Clean the code
-Master Python!
+Batteryhere we go

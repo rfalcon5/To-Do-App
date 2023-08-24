@@ -1,6 +1,5 @@
 from functions import write_todos, get_todos
 import time
-import glob
 
 
 now = time.strftime("%b %d, %Y %H:%M:%S")

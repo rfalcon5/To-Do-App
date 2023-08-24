@@ -4,6 +4,7 @@ import glob
 
 
 now = time.strftime("%b %d, %Y %H:%M:%S")
+print("The time is below.")
 print("It is", now)
 while True:
     user_action = input("Type add, edit, complete, show or exit: ")
